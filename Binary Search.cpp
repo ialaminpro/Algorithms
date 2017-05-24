@@ -1,5 +1,4 @@
 /**************************************************************************
-***   Problem No    : 3                                                 ***
 ***   Problem Name  : Binary Search                                     ***
 ***   Type          : Search                                            ***
 ***   Author        : Al-Amin                                           ***
@@ -8,7 +7,7 @@
 ***   Facebook      : http://www.facebook.com/alamin25                  ***
 ***************************************************************************/
 
-/**********************Template Starts Here***********************/
+/***************************Template Starts Here***************************/
 
 #include <cstdio>
 #include <cstring>
